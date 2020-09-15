@@ -1,7 +1,7 @@
 ### Hi, I'm Saaket 👋
 
 I'm currently a sophomore at **The University of Texas at Dallas** where I am currently studying ***Computer Engineering*** along with a minor in ***Finance***.
-I am passionate about ***space technology, robotics, drones, artificial inteligence, finance*** and many more things.
+I am passionate about ***space technology, robotics, drones, artificial intelligence, finance*** and many more things.
 
 - 🌱 **I’m currently learning:** The basics of machine learning and artificial intelligence
 - 👯 **I’m looking to collaborate on:** Exciting new technologies and projects! Send me a message if you would like to work with me
