@@ -8,4 +8,4 @@ I am passionate about ***space technology, robotics, drones, artificial intellig
 - 📫 **How to reach me:** Email me at saaketporay@gmail.com or feel free to send me a message on my Linkedin: https://linkedin.com/in/saaketporay
 - ⚡ **Fun fact:** I like to do things average people don't
 
-**If you're looking to recruit/hire me, you can find my resume [here](https://github.com/saaketporay/Resume). Feel free to send me an email anytime at saaketporay@gmail.com**
+**If you're looking to recruit/hire me, you can find my resume [here](https://github.com/saaketporay/Resume). Feel free to send me an email anytime at saaket.poray@utdallas.edu**
