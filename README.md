@@ -9,3 +9,5 @@ I am passionate about ***space technology, robotics, drones, artificial intellig
 - ⚡ **Fun fact:** I like to do things average people don't
 
 **If you're looking to recruit/hire me, you can find my resume [here](https://github.com/saaketporay/Resume). Feel free to send me an email anytime at saaket.poray@utdallas.edu**
+
+![vis.jpg](https://visitor-badge.glitch.me/badge?page_id=saaketporay)
